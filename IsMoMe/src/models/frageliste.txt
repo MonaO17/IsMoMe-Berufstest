@@ -1,0 +1,22 @@
+1. Welcher Bereich spricht dich am meisten an?;Literarischer Bereich;Sportlicher Bereich;Naturwisschaftlicher/ mathematischer Bereich;Kreativer/ musikalischer Bereich;
+2. Ab welchem Jahresbruttoverdienst wärst du zufrieden?;30.000€-40.000€;40.000€-50.000€;50.000€-60.000€;ab 60.000€;
+3. Welchen Abschluss hast du oder strebst du an?;Hauptschulabschluss oder Mittlerer Schulabschluss;Ausbildung, Fachhochschulreife oder Abitur;Bachelor, Master oder Diplom;Doktor oder Professor;
+4. Welche Berufsposition strebst du an?;Angestellte*r;Leitende Position;Selbstständig;Weiß ich noch nicht;
+5. Welche Rolle übernimmst du am liebsten in einer Gruppenarbeit?;Teamplayer*in;Einzelgänger*in;Teamleader*in;Ich mache nur das Nötigste;
+6. Möchtest du lieber im Büro oder im Home Office arbeiten?;Büro;;Home Office;;
+7. Möchtest du in deinem späteren Beruf reisen?;Ja;;Nein;;
+8. Möchtest einen sozialen Beruf ausüben?;Ja;;Nein;;
+9. Machst du lieber Routineaufgaben oder Aufgaben mit Abwechslung?;Routineaufgaben;;Aufgaben mit Abwechslung und Herausforderungen;;
+10. Möchtest du im Beruf lieber in der Werkstatt oder am Schreibtisch arbeiten?;Werkstatt;; Schreibtisch;;
+
+
+
+
+
+
+
+
+
+
+
+
